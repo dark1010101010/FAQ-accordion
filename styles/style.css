@@ -2,14 +2,14 @@
   @font-face {
     font-family: "WorkSans";
     font-weight: 200 400 500 700;
-    src: url("/assets/fonts/WorkSans-VariableFont_wght.ttf");
+    src: url("../assets/fonts/WorkSans-VariableFont_wght.ttf");
   }
 
   @font-face {
     font-family: "WorkSans";
     font-weight: 200 400 500 700;
     font-style: italic;
-    src: url("/assets/fonts/WorkSans-Italic-VariableFont_wght.ttf");
+    src: url("../assets/fonts/WorkSans-Italic-VariableFont_wght.ttf");
   }
 
   * {
@@ -44,7 +44,7 @@
   .pattern-img-container-top {
     height: 35vh;
     background-color: saddlebrown;
-    background-image: url("/assets/images/background-pattern-desktop.svg");
+    background-image: url("../assets/images/background-pattern-desktop.svg");
   }
 
   .pattern-img-container-bottom {
