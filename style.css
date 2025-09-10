@@ -1,0 +1,34 @@
+@layer global {
+  @font-face {
+    font-family: "WorkSans";
+    font-weight: 200 400 500 700;
+    src: url(assets/fonts/WorkSans-VariableFont_wght.ttf);
+  }
+
+  @font-face {
+    font-family: "WorkSans";
+    font-weight: 200 400 500 700;
+    font-style: italic;
+    src: url(assets/fonts/WorkSans-Italic-VariableFont_wght.ttf);
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    
+    font-family: "WorkSans";
+  }
+}
+
+@layer colors {
+  :root {
+    --white: hsl(0, 100%, 100%);
+    --purple-100: hsl(275, 100%, 97%);
+    --Purple-600: hsl(292, 16%, 49%);
+    --Purple-950: hsl(292, 42%, 14%);
+  }
+}
