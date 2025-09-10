@@ -65,7 +65,5 @@ document.querySelectorAll('.js-question-container')
          
       openQuestionId = qId;
       }
-
-      console.log(openQuestionId);
   });
  });
