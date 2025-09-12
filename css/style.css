@@ -43,7 +43,7 @@
   /* img containers */
   .pattern-img-container-top {
     height: 35vh;
-    background-color: saddlebrown;
+    background-color: rgb(49, 0, 95);
     background-image: url("../assets/images/background-pattern-desktop.svg");
   }
 

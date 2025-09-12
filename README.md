@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-* Solution URL: [Add solution URL here](#)
-* Live Site URL: [Will update soon](#)
+* Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-html-css-and-js-uePDD2nBVN](#)
+* Live Site URL: [https://dark1010101010.github.io/FAQ-accordion/](#)
 
 ## My Process
 
